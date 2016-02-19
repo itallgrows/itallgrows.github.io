@@ -1,0 +1,32 @@
+body { background-color: #F2F2F2
+
+}
+
+body	{ font-family: Arial, sans-serif
+
+
+}
+
+h1      {color: #61380B
+
+
+}
+
+h3        {color: #61380B
+
+
+      }
+
+ul {
+	text-align: center;
+list-style-type: none;
+}
+#slogan {font-style: italic;}
+
+#menu {color: #ffffff;
+text-align: center;
+font-weight: bold;}
+
+body {width: 2500 px;
+margin: auto;
+}
