@@ -1,32 +1,43 @@
-body { background-color: #F2F2F2
+@import url(https://fonts.googleapis.com/css?family=Droid+Serif);
+
+body 	{ 
+
+	background-color: #F2F2F2;
+	font-family: 'Driod Serif', sans-serif;
+	font-weight: 500;
 
 }
-
-body	{ font-family: Arial, sans-serif
-
-
+h1		{
+	font-family: 'Driod Serif', sans-serif;
+	font-weight: 500;
+}
+h2		{
+	font-family: 'Driod Serif', sans-serif;
+	font-weight: 500;
+}
+p 		{
+	font-family: 'Driod Serif', sans-serif;
+	font-weight: 500;
 }
 
-h1      {color: #61380B
-
-
-}
-
-h3        {color: #61380B
-
-
-      }
-
-ul {
+ul 		{
+	
 	text-align: center;
-list-style-type: none;
+	list-style-type: none;
 }
-#slogan {font-style: italic;}
 
-#menu {color: #ffffff;
-text-align: center;
-font-weight: bold;}
+#slogan {	
 
-body {width: 2500 px;
-margin: auto;
+		font-style: italic;	
+	}
+
+#menu 	{	
+	color: #ffffff;
+	text-align: center;
+	font-weight: bold;	
+	}
+
+body 	{
+	width: 2500 px;
+	margin: auto;
 }
